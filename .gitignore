@@ -1,0 +1,4 @@
+deeplab_model/*
+models/*
+__pycache__/
+models.tar.gz
