@@ -1,4 +1,8 @@
 deeplab_model/*
+!deeplab_model/.gitkeep
+
 models/*
+!models/.gitkeep
+
 __pycache__/
 models.tar.gz
